@@ -1,2 +1,2 @@
-# LeetCodeContests
-LeetCode contests on Python
+# LeetCodePython
+LeetCode task for Python
